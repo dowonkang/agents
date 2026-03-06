@@ -1,6 +1,6 @@
 ---
 name: shell-scripts
-description: Write, review, debug, or refactor shell scripts — including POSIX sh, bash, zsh, and related formats. Use this skill whenever the user asks to create a .sh file, write a shell function, debug a script error, check POSIX compliance, review shebang lines, handle environment variables in shell, or produce cross-platform shell code. Also trigger for questions about shell quoting, variable expansion, command substitution, exit codes, and script portability across ash/dash/bash/zsh/GNU/Linux/BSD/macOS/BusyBox.
+description: "Write, review, debug, or refactor shell scripts — including POSIX sh, bash, zsh, and related formats. Use this skill whenever the user asks to create a .sh file, write a shell function, debug a script error, check POSIX compliance, review shebang lines, handle environment variables in shell, or produce cross-platform shell code. Also trigger for questions about shell quoting, variable expansion, command substitution, exit codes, and script portability across ash/dash/bash/zsh/GNU/Linux/BSD/macOS/BusyBox."
 ---
 
 # Shell Scripts
