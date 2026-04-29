@@ -98,6 +98,39 @@ git mv skills/skill-a plugins/skill-a/skills/skill-a
 git mv .agents/commands/my-command.md plugins/my-command/commands/my-command.md
 ```
 
+## README.md
+
+Update the repo's `README.md` to document how to install from the marketplace. Include:
+
+1. How to add the marketplace as a source
+2. The list of available plugins with one-line descriptions
+3. How to install individual plugins
+
+Example:
+
+```markdown
+## Installation
+
+Add as a Claude Code marketplace:
+
+\`\`\`sh
+claude plugins add-marketplace username/repo-name
+\`\`\`
+
+## Available Plugins
+
+| Plugin | Description |
+|--------|-------------|
+| `skill-a` | What it does |
+| `my-command` | What it does |
+
+Install a plugin:
+
+\`\`\`sh
+claude plugins install repo-name/skill-a
+\`\`\`
+```
+
 ## Common Mistakes
 
 | Mistake | Fix |
