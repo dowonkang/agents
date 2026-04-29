@@ -1,13 +1,27 @@
 # Files for AI Agents
 
-Interactively select skills to install:
+Personal skills and commands for Claude Code.
+
+## Installation
+
+Add as a Claude Code marketplace source:
 
 ```sh
-npx skills add dowonkang/agents
+claude plugins add-marketplace dowonkang/agents
 ```
 
-Or specify a skill:
+Then install any plugin by name:
 
 ```sh
-npx skills add dowonkang/agents --skill <skill-name>
+claude plugins install dowonkang-agents/<plugin-name>
 ```
+
+## Available Plugins
+
+| Plugin | Description |
+|--------|-------------|
+| `english-proofreading` | Proofread and improve English text before answering |
+| `shell-scripts` | Write, review, debug, and refactor shell scripts |
+| `accessibility` | Korean accessibility standards reference (KWCAG 2.2 + MACAG 2025) |
+| `native-lang-io` | One-time setup: adds native language I/O rules to agent instruction files |
+| `claude-marketplace-setup` | Set up a GitHub repo as a Claude Code marketplace |
