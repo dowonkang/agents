@@ -1,0 +1,7 @@
+{
+  "name": "shell-scripts",
+  "version": "1.0.0",
+  "description": "Write, review, debug, and refactor shell scripts",
+  "author": { "name": "Dowon Kang" },
+  "license": "MIT"
+}

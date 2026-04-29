@@ -1,0 +1,7 @@
+{
+  "name": "english-proofreading",
+  "version": "1.0.0",
+  "description": "Proofread and improve English text before answering",
+  "author": { "name": "Dowon Kang" },
+  "license": "MIT"
+}

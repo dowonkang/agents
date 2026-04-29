@@ -1,0 +1,8 @@
+{
+  "name": "native-lang-io",
+  "version": "1.0.0",
+  "description": "One-time setup: adds native language I/O rules to agent instruction files",
+  "author": { "name": "Dowon Kang" },
+  "license": "MIT",
+  "commands": "./commands"
+}

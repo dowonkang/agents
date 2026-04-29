@@ -9,6 +9,5 @@
   "repository": "https://github.com/dowonkang/agents",
   "license": "MIT",
   "keywords": ["personal", "workflow"],
-  "category": "workflow",
-  "commands": "./.agents/commands"
+  "category": "workflow"
 }

@@ -1,0 +1,7 @@
+{
+  "name": "accessibility",
+  "version": "1.0.0",
+  "description": "Korean accessibility standards reference (KWCAG 2.2 + MACAG 2025)",
+  "author": { "name": "Dowon Kang" },
+  "license": "MIT"
+}
