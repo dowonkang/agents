@@ -42,6 +42,15 @@
       "author": { "name": "Dowon Kang" },
       "keywords": ["personal", "workflow"],
       "category": "workflow"
+    },
+    {
+      "name": "marketplace-setup",
+      "source": "./plugins/marketplace-setup",
+      "description": "Skill for setting up a GitHub repo as a Claude Code marketplace",
+      "version": "1.0.0",
+      "author": { "name": "Dowon Kang" },
+      "keywords": ["personal", "workflow"],
+      "category": "workflow"
     }
   ]
 }
