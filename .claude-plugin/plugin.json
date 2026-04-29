@@ -1,0 +1,14 @@
+{
+  "name": "dowonkang-agents",
+  "version": "1.0.0",
+  "description": "Personal skills and commands for Claude Code",
+  "author": {
+    "name": "Dowon Kang",
+    "email": "dowonkang@cttd.co.kr"
+  },
+  "repository": "https://github.com/dowonkang/agents",
+  "license": "MIT",
+  "keywords": ["personal", "workflow"],
+  "category": "workflow",
+  "commands": "./.agents/commands"
+}

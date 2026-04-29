@@ -1,0 +1,24 @@
+{
+  "name": "dowonkang-agents",
+  "id": "dowonkang-agents",
+  "owner": {
+    "name": "dowonkang"
+  },
+  "metadata": {
+    "description": "Personal skills and commands for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dowonkang-agents",
+      "source": "./",
+      "description": "Personal skills and commands for Claude Code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dowon Kang"
+      },
+      "keywords": ["personal", "workflow"],
+      "category": "workflow"
+    }
+  ]
+}
