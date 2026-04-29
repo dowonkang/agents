@@ -1,5 +1,5 @@
 ---
-name: marketplace-setup
+name: claude-marketplace-setup
 description: Use when making a GitHub repo work as a Claude Code marketplace source — so users can add it and selectively install individual plugins from it.
 ---
 

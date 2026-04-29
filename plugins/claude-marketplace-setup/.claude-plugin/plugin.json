@@ -1,5 +1,5 @@
 {
-  "name": "marketplace-setup",
+  "name": "claude-marketplace-setup",
   "version": "1.0.0",
   "description": "Skill for setting up a GitHub repo as a Claude Code marketplace",
   "author": { "name": "Dowon Kang" },
