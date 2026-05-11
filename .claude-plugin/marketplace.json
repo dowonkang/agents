@@ -35,15 +35,6 @@
       "category": "workflow"
     },
     {
-      "name": "native-lang-io",
-      "source": "./plugins/native-lang-io",
-      "description": "One-time setup: adds native language I/O rules to agent instruction files",
-      "version": "1.0.0",
-      "author": { "name": "Dowon Kang" },
-      "keywords": ["personal", "workflow"],
-      "category": "workflow"
-    },
-    {
       "name": "claude-marketplace-setup",
       "source": "./plugins/claude-marketplace-setup",
       "description": "Skill for setting up a GitHub repo as a Claude Code marketplace",
